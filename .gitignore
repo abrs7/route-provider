@@ -1,0 +1,11 @@
+#Env
+.env
+
+# Bytecode and Python-related files
+__pycache__/
+
+#Db
+db.sqlite3
+
+# Django migrations
+**/migrations/**
